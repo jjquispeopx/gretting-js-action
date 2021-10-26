@@ -1,0 +1,24 @@
+{
+  "name": "gretting-js-action",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjquispeopx/gretting-js-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjquispeopx/gretting-js-action/issues"
+  },
+  "homepage": "https://github.com/jjquispeopx/gretting-js-action#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0"
+  }
+}
